@@ -1,0 +1,34 @@
+/* css styles */
+.callout {
+  border-radius: 6px;
+}
+
+.callout-title {
+  font-weight: bold;
+}
+
+body {
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+
+
+h1 { color: #4ea8ff; }
+h2 { color: #f2c37d; }
+h3 { color: #9ad1a3; }
+
+
+/* Force color for listing titles (Functions, Limits, etc.) */
+.quarto-listing .listing-title,
+.quarto-listing .listing-title a {
+  color: #f2c37d !important;
+}
+
+/* Optional: description color */
+.quarto-listing .listing-description {
+  color: #cccccc !important;
+}
+
+
+
+

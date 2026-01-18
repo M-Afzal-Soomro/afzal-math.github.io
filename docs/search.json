@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "real-anal.html",
+    "href": "real-anal.html",
+    "title": "Real Analysis",
+    "section": "",
+    "text": "Calculus is the study of “change”\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFunctions\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLimits\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nContinuity\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Real Numbers\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "real-anal/limits/index.html",
+    "href": "real-anal/limits/index.html",
+    "title": "Limits",
+    "section": "",
+    "text": "Limits\nHere you write your notes about limits.\n\\[\n\\lim_{x\\to 0} \\frac{\\sin x}{x} = 1\n\\]"
+  },
+  {
+    "objectID": "real-anal/continuity/index.html",
+    "href": "real-anal/continuity/index.html",
+    "title": "Continuity",
+    "section": "",
+    "text": "Continuity\nA function is continuous if…"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "linear-algebra/Linear-Transformation/index.html",
+    "href": "linear-algebra/Linear-Transformation/index.html",
+    "title": "Linear Transformation",
+    "section": "",
+    "text": "Linear Transformation\nA map from one vector space to another"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "A Mathematics student interested in pure mathematics, especially Algebra and Algebraic Geometry.\n\n\n\n\nReal Analysis\nLinear Algebra\n\n\n\n\n\nI have created this website to share my notes, materials, and ideas related to various fields of pure and applied mathematics. If you find any flaws or mistakes, or if you have questions about any ideas or content presented here, please let me know via email—I would greatly appreciate it. You can learn more about me on the About page.\n\n\n\n\nEmail: soomroafzal06@gmail.com\nGitHub: https://github.com/M-Afzal-Soomro"
+  },
+  {
+    "objectID": "index.html#notes",
+    "href": "index.html#notes",
+    "title": "Home",
+    "section": "",
+    "text": "Real Analysis\nLinear Algebra"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Home",
+    "section": "",
+    "text": "I have created this website to share my notes, materials, and ideas related to various fields of pure and applied mathematics. If you find any flaws or mistakes, or if you have questions about any ideas or content presented here, please let me know via email—I would greatly appreciate it. You can learn more about me on the About page."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Home",
+    "section": "",
+    "text": "Email: soomroafzal06@gmail.com\nGitHub: https://github.com/M-Afzal-Soomro"
+  },
+  {
+    "objectID": "about copy.html",
+    "href": "about copy.html",
+    "title": "About Me",
+    "section": "",
+    "text": "&lt;h1&gt;Muhammad Afzal&lt;/h1&gt;\n\n&lt;p&gt;Mathematics student interested in analysis, linear algebra, and problem solving.&lt;/p&gt;\n\n&lt;h2&gt;Short Bio&lt;/h2&gt;\n&lt;p&gt;\n  I am a mathematics student passionate about understanding fundamental ideas deeply and explaining them clearly.\n  This website serves as a structured collection of my notes and learning journey.\n&lt;/p&gt;\n\n&lt;h2&gt;Academic Interests&lt;/h2&gt;\n&lt;ul&gt;\n  &lt;li&gt;Calculus and Analysis&lt;/li&gt;\n  &lt;li&gt;Linear Algebra&lt;/li&gt;\n  &lt;li&gt;Mathematical Proofs and Problem Solving&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;h2&gt;Contact&lt;/h2&gt;\n&lt;p&gt;\n  Email: your@email.com &lt;br&gt;\n  GitHub: https://github.com/yourusername\n&lt;/p&gt;\n\n\n\n&lt;img src=\"LOGO1.jpeg\" style=\"width:200px; border-radius:10px;\"&gt;"
+  },
+  {
+    "objectID": "about.html#short-bio",
+    "href": "about.html#short-bio",
+    "title": "About Me",
+    "section": "Short Bio",
+    "text": "Short Bio\nI am a first-year postgraduate student in Applied Mathematics at Mehran University of Engineering and Technology, Jamshoro (Pakistan).\nI completed my undergraduate studies in Mathematics at the same university under the supervision of Dr. Sania Qureshi.\nAlongside my formal studies, I am independently learning pure mathematics.\nI created this website to share my ideas, notes, and important material related to various areas of Pure and Applied Mathematics."
+  },
+  {
+    "objectID": "about.html#academic-interests",
+    "href": "about.html#academic-interests",
+    "title": "About Me",
+    "section": "Academic Interests",
+    "text": "Academic Interests\n\nAlgebraic Geometry\n\nCommutative Algebra\n\nDifferential Geometry\n\nReal Analysis\n\nMeasure Theory"
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About Me",
+    "section": "Contact",
+    "text": "Contact\nEmail: soomroafzal006@gmail.com\nGitHub: https://github.com/M-Afzal-Soomro"
+  },
+  {
+    "objectID": "linear-algebra/index.html",
+    "href": "linear-algebra/index.html",
+    "title": "Vector Space",
+    "section": "",
+    "text": "Vector Spaces\nA vector space over a field \\(F\\) is…"
+  },
+  {
+    "objectID": "linear-algebra.html",
+    "href": "linear-algebra.html",
+    "title": "Linear Algebra",
+    "section": "",
+    "text": "anything that matters it is a test\n\n\n\n\n\n\n\n\n\n\n\n\n\nVector Space\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLinear Transformation\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "real-anal/functions/index.html",
+    "href": "real-anal/functions/index.html",
+    "title": "Functions",
+    "section": "",
+    "text": "Functions\nHere you write your notes about functions.\nExample:\nA function is a mapping \\(f: A \\to B\\) such that for each element \\(x\\) in \\(A\\) has a unique image in \\(B\\) that is \\(f(x)\\). Then consider the following commutative diagram\nIn mathematical proofs our goal is to assume the hypothesis and prove the conclusions. For instance consider the most iconic things that can happen here. Consider the following function \\[ f(x)=\\frac{x^2+1}{x^2+1} \\] this indeed shows a function. Next consider now consider some in this case we have\n\n\nHeading 1\n\n\n\n\n\n\nNoteDefinition\n\n\n\nA function \\(f : A \\to B\\) is a rule that assigns to each \\(a \\in A\\) exactly one element \\(f(a) \\in B\\).\n\n\n\n\n\n\n\n\nImportantTheorem\n\n\n\nIf \\(f\\) is continuous on \\([a,b]\\), then \\(f\\) attains a maximum and minimum on \\([a,b]\\).\n\n\n\n\n\n\n\n\nTipProof\n\n\n\nThe proof follows from the Extreme Value Theorem.\n\n\n\nConsider \\(f(x)=x^2\\) on \\([-1,1]\\). The maximum is \\(1\\) and the minimum is \\(0\\).\n\n\n\n\n\n\n\nWarningExercise\n\n\n\nShow that the sum of two continuous functions is continuous.\n\n\n\nTheorem 1 (Intermediate Value Theorem).\nLet \\(f\\) be continuous on \\([a,b]\\)…\n\n\n\n\n\n\n\nTipProof\n\n\n\n\n\nShow proof\n\nSince \\(f\\) is continuous on \\([a,b]\\), by the completeness of \\(\\mathbb{R}\\)…"
+  },
+  {
+    "objectID": "real-anal/real-numbers/index.html",
+    "href": "real-anal/real-numbers/index.html",
+    "title": "The Real Numbers",
+    "section": "",
+    "text": "The Real Numbers\nIn this sectioon we shall study the real numbers"
+  }
+]
