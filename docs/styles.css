@@ -31,4 +31,11 @@ h3 { color: #9ad1a3; }
 
 
 
+/* Force all listing thumbnails to same size */
+.quarto-listing img {
+  width: 50%;
+  height: 100px;        /* change this number if you want taller/shorter */
+  object-fit: cover;    /* crops image nicely instead of stretching */
+  border-radius: 8px;
+}
 
